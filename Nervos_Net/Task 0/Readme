@@ -1,1 +1,9 @@
+## Task 0
 
+1. A screenshot of the console output from the Testnet CKB Node after it has synced with the network.
+
+![image info](./task0/CKBNode.png)
+
+2. A screenshot of the console output from the local CKB Indexer after syncing with the Testnet CKB Node.
+
+![image info](./task0/CKBIndexer.png)
