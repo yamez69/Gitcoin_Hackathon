@@ -1,4 +1,4 @@
-# Gitcoin_Hackathon
+# Nervos Hackathon
 ## Task 0
 
 1. Screenshot of the console output from the Testnet CKB Node once it has fully synchronized with the network.
